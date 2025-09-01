@@ -1,4 +1,4 @@
-# RAVEN - CYBERSECURITY LEARNING PATHWAY latest
+# RAVEN - CYBERSECURITY LEARNING PATHWAY latest update
 
 > From Zero to Hero | Practical and Theoretical Knowledge | Current Resources
 
